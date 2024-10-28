@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<h1>R.Deepika</h1>
+<div class="bio">
+    <p>Hello! I'm Deepika, a data visualization and job simulation enthusiast I recently completed a course at Accenture
+        throught forage.</p>
+</div>
+<p> welcome to my personal homepage! here ,you can learn more about me and conect with me on social media</p>
+
+<h2>Contact Me</h2>
+<ul>
+    <li><strong>Email:</strong> <a href="mailto:your.email@example.com">deepikajin6@gmail.com</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourprofile"
+            target="_blank">linkedin.com/in/yourprofile</a></li>
+    <li><strong>Twitter:</strong> <a href="https://twitter.com/yourprofile" target="_blank">@yourprofile</a></li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/yourprofile" target="_blank">github.com/yourprofile</a>
+    </li>
+</ul>
+
+</html>
